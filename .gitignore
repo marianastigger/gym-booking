@@ -210,3 +210,6 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 >>>>>>> 5d2a1e0501a9f2a6b3fc2d4842b5570787512271
+
+.idea
+chrome_profile/
